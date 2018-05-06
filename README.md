@@ -1,6 +1,12 @@
 # Twitter-Sentiment-Analysis
 Social media websites have emerged as one of the platforms to raise users’ opinions and influence the way any business is commercialized. Opinion of people matters a lot to analyze how the propagation of information impacts the lives in a large-scale network like Twitter. Sentiment analysis of the tweets determine the polarity and inclination of vast population towards specific topic, item or entity. These days, the applications of such analysis can be easily observed during public elections, movie promotions, brand endorsements and many other fields.The primary aim is to provide a method for analyzing sentiment score in noisy twitter streams.
 
+# Installing the dependencies
+Make sure you have the following libraries installed (which you can do with pip):
+1. tweepy (to gather Tweets)
+2. aylien-apiclient (to analyze the sentiment of the Tweets)
+3. matplotlib (to visualize the results)
+
 # How to get API keys for Twitter
 To get Twitter Access keys, you need to create Twitter Application which is mandatory to access Twitter.
 
